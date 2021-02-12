@@ -12,6 +12,7 @@
 - [2021.01.02] DP 01 : [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [2021.01.03] DP 02 : [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
 - [2021.01.04] DP 03 : [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+- [2021.02.12] DP 04 : [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
 - [2020.12.23] BFS/DFS 01 : [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 - [2020.12.27] BFS/DFS 02 : [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
 - [2020.12.30] BFS/DFS 03 : [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
