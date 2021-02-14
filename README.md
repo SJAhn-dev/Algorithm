@@ -20,5 +20,5 @@
 - [2021.02.12] Sort 01 : [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [2021.02.12] Sort 02 : [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
-### Programmers - KaKao Recruiment
+### Programmers - KaKao Coding Test
 - [2021.02.14] 2018 1차 : [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676#)
