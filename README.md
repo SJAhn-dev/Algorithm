@@ -32,3 +32,4 @@
 - [2021.02.19] 2018 3차 : [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 - [2021.02.22] 2018 3차 : [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
 - [2021.02.22] 2018 3차 : [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+- [2021.02.22] 2018 3차 : [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685)
