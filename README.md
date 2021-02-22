@@ -30,3 +30,4 @@
 - [2021.02.16] 2018 1차 : [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
 - [2021.02.17] 2018 3차 : [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
 - [2021.02.19] 2018 3차 : [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
+- [2021.02.22] 2018 3차 : [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
