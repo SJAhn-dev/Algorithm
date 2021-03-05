@@ -38,3 +38,4 @@
 - [2021.02.24] 2019 겨울 인턴십 : [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
 - [2021.03.02] 2019 겨울 인턴십 : [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 - [2021.03.04] 2019 겨울 인턴십 : [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)
+- [2021.03.05] 2019 블라인드 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
