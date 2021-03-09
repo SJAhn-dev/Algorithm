@@ -40,3 +40,4 @@
 - [2021.03.04] 2019 겨울 인턴십 : [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)
 - [2021.03.05] 2019 블라인드 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 - [2021.03.05] 2019 블라인드 : [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+- [2021.03.09] 2019 블라인드 : [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
