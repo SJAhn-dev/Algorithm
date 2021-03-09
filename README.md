@@ -41,3 +41,4 @@
 - [2021.03.05] 2019 블라인드 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 - [2021.03.05] 2019 블라인드 : [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 - [2021.03.09] 2019 블라인드 : [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
+- [2021.03.09] 2019 블라인드 : [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
