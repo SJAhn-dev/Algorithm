@@ -44,3 +44,4 @@
 - [2021.03.09] 2019 블라인드 : [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
 - [2021.03.10] 2019 블라인드 : [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 - [2021.03.11] 2019 블라인드 : [매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893)
+- [2021.03.16] 2019 블라인드 : [블록 게임](https://programmers.co.kr/learn/courses/30/lessons/42894)
