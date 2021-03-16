@@ -46,3 +46,4 @@
 - [2021.03.11] 2019 블라인드 : [매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893)
 - [2021.03.16] 2019 블라인드 : [블록 게임](https://programmers.co.kr/learn/courses/30/lessons/42894)
 - [2021.03.16] 2020 블라인드 : [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [2021.03.16] 2020 블라인드 : [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
