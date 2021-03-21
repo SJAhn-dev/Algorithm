@@ -48,3 +48,4 @@
 - [2021.03.16] 2020 블라인드 : [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [2021.03.16] 2020 블라인드 : [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 - [2021.03.18] 2020 블라인드 : [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+- [2021.03.21] 2020 블라인드 : [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
