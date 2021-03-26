@@ -20,7 +20,10 @@
 - [2021.02.12] Sort 01 : [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [2021.02.12] Sort 02 : [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
-### Programmers - KaKao Coding Test
+### Programmers - Code Challenge
+- [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+
+### KaKao Coding Test
 - [2021.02.14] 2018 1차 : [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676#)
 - [2021.02.15] 2018 1차 : [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 - [2021.02.15] 2018 1차 : [다트](https://programmers.co.kr/learn/courses/30/lessons/17682)
