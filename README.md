@@ -22,6 +22,7 @@
 
 ### Programmers - Code Challenge
 - [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+- [2021.03.27] 시즌 1 : [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 
 ### KaKao Coding Test
 - [2021.02.14] 2018 1차 : [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676#)
