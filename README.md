@@ -64,3 +64,4 @@
 - [2021.04.07] 2020 인턴십 : [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
 - [2021.04.07] 2020 인턴십 : [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)
 - [2021.04.08] 2021 블라인드 : [신규 아이디](https://programmers.co.kr/learn/courses/30/lessons/72410)
+- [2021.04.08] 2021 블라인드 : [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
