@@ -1,4 +1,4 @@
-qㅂㅂㅂㅂ# Algorithm
+# Algorithm
 
 ---
 
