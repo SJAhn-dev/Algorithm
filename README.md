@@ -66,3 +66,4 @@
 - [2021.04.08] 2021 블라인드 : [신규 아이디](https://programmers.co.kr/learn/courses/30/lessons/72410)
 - [2021.04.08] 2021 블라인드 : [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - [2021.04.09] 2021 블라인드 : [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+- [2021.04.10] 2021 블라인드 : [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)
