@@ -20,6 +20,7 @@
 - [2021.02.12] Sort 01 : [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [2021.02.12] Sort 02 : [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [2021.04.24] BP 01 : [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+- [2021.04.24] BP 02 : [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 
 ### Programmers - Code Challenge
 - [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
