@@ -22,6 +22,7 @@
 - [2021.04.24] BP 01 : [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - [2021.04.24] BP 02 : [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 - [2021.04.27] Graph 01 : [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+- [2021.04.28] BS 01 : [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 
 ### Programmers - Code Challenge
 - [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
