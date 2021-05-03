@@ -76,3 +76,8 @@
 - [2021.04.10] 2021 블라인드 : [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)
 - [2021.04.11] 2021 블라인드 : [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
 - [2021.04.13] 2021 블라인드 : [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)
+
+
+## Beakjoon
+
+-[2021.05.03] 16234번 : [인구 이동](https://www.acmicpc.net/problem/16234)
