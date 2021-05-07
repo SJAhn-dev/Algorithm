@@ -69,7 +69,7 @@
 - [2021.03.31] 2020 블라인드 : [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
 - [2021.04.01] 2020 블라인드 : [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063)
 - [2021.04.21] 2020 블라인드 : [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062)
-- [2021.04.05] 2020 인턴십 : [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+- [2021.04.05] 2020 인턴십 : [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) - [2021.05.07] 재풀이
 - [2021.04.06] 2020 인턴십 : [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
 - [2021.04.06] 2020 인턴십 : [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
 - [2021.04.07] 2020 인턴십 : [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
