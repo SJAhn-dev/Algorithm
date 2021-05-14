@@ -30,8 +30,8 @@
 - [2021.03.27] 시즌 1 : [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 - [2021.03.29] 시즌 1 : [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 - [2021.04.01] 시즌 1 : [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
-- [2021.04.15] 시즌 2 : [문제1]
-- [2021.04.15] 시즌 2 : [문제2]
+- [2021.04.15] 시즌 2 : [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
+- [2021.04.15] 시즌 2 : [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
 
 ### Programmers - Dev Matching
 - [2021.05.06] 2021 BE : [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
