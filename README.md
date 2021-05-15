@@ -18,7 +18,7 @@
 - [2020.12.30] BFS/DFS 03 : [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [2020.12.31] BFS/DFS 04 : [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
 - [2021.02.12] Sort 01 : [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) - [2021.05.12] 코틀린
-- [2021.02.12] Sort 02 : [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+- [2021.02.12] Sort 02 : [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) - [2021.05.15] 코틀린
 - [2021.04.24] BP 01 : [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - [2021.04.24] BP 02 : [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 - [2021.04.27] Graph 01 : [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
