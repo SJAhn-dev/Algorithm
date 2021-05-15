@@ -25,6 +25,7 @@
 - [2021.04.28] BS 01 : [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 - [2021.05.10] Heap 03 : [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 - [2021.05.15] Stack/Queue 01 : [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+- [2021.05.15] Stack/Queue 02 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
 ### Programmers - Code Challenge
 - [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
