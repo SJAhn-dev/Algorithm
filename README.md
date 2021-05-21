@@ -8,6 +8,7 @@
 - [2021.02.08] Greedy 02 : [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 - [2021.02.09] Greedy 03 : [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 - [2021.02.10] Greedy 04 : [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [2021.05.21] Greedy 05 : [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
 - [2021.02.11] Greedy 06 : [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 - [2021.01.02] DP 01 : [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [2021.01.03] DP 02 : [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
