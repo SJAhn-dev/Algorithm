@@ -58,7 +58,7 @@
 - [2021.02.23] 2019 겨울 인턴십 : [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) - (Java)
 - [2021.02.23] 2019 겨울 인턴십 : [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) - (Java, Kotlin)
 - [2021.02.24] 2019 겨울 인턴십 : [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) - (Java)
-- [2021.03.02] 2019 겨울 인턴십 : [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) - (Java)
+- [2021.03.02] 2019 겨울 인턴십 : [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) - (Java, Kotlin)
 - [2021.03.04] 2019 겨울 인턴십 : [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) - (Java)
 - [2021.03.05] 2019 블라인드 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) - (Java)
 - [2021.03.05] 2019 블라인드 : [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) - (Java)
