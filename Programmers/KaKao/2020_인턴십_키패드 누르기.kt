@@ -13,7 +13,7 @@ class Solution {
         var rightTemp = 11
         HAND = hand
         var answer = StringBuilder()
-
+ 
         for(number in numbers) {
             when(number) {
                 1, 4, 7 -> {
