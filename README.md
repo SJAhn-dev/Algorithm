@@ -64,7 +64,7 @@
 - [2021.03.05] 2019 블라인드 : [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) - (Java, Kotlin)
 - [2021.03.09] 2019 블라인드 : [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892) - (Java)
 - [2021.03.09] 2019 블라인드 : [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) - (Java)
-- [2021.03.10] 2019 블라인드 : [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) - (Java)
+- [2021.03.10] 2019 블라인드 : [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) - (Java, Kotlin)
 - [2021.03.11] 2019 블라인드 : [매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893) - (Java)
 - [2021.03.16] 2019 블라인드 : [블록 게임](https://programmers.co.kr/learn/courses/30/lessons/42894) - (Java)
 - [2021.03.16] 2020 블라인드 : [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) - (Java)
