@@ -28,6 +28,7 @@
 - [2021.05.10] Heap 03 : [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) - (Java)
 - [2021.05.15] Stack/Queue 01 : [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) - (Kotlin)
 - [2021.05.15] Stack/Queue 02 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) - (Kotlin)
+- [2021.06.11] Hash 03 : [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - (Kotlin)
 
 ### Programmers - Code Challenge
 - [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - (Java)
