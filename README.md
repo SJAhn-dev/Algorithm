@@ -28,6 +28,7 @@
 - [2021.05.10] Heap 03 : [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) - (Java)
 - [2021.05.15] Stack/Queue 01 : [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) - (Kotlin)
 - [2021.05.15] Stack/Queue 02 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) - (Kotlin)
+- [2021.06.13] Stack/Queue 03 : [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) - (Java)
 - [2021.06.11] Hash 03 : [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - (Kotlin)
 
 ### Programmers - Code Challenge
