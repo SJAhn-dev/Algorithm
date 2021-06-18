@@ -32,7 +32,7 @@
 - [2021.06.11] Hash 03 : [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - (Kotlin)
 
 ### Programmers - Code Challenge
-- [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - (Java)
+- [2021.03.26] 시즌 1 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - (Java, Kotlin)
 - [2021.03.27] 시즌 1 : [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) - (Java)
 - [2021.03.29] 시즌 1 : [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) - (Java)
 - [2021.04.01] 시즌 1 : [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) - (Java)
