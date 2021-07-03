@@ -81,7 +81,7 @@
 - [2021.04.06] 2020 인턴십 : [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) - (Java, Kotlin)
 - [2021.04.07] 2020 인턴십 : [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) - (Java, Kotlin)
 - [2021.04.07] 2020 인턴십 : [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) - (Java)
-- [2021.04.08] 2021 블라인드 : [신규 아이디](https://programmers.co.kr/learn/courses/30/lessons/72410) - (Java)
+- [2021.04.08] 2021 블라인드 : [신규 아이디](https://programmers.co.kr/learn/courses/30/lessons/72410) - (Java, Kotlin)
 - [2021.04.08] 2021 블라인드 : [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) - (Java)
 - [2021.04.09] 2021 블라인드 : [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) - (Java)
 - [2021.04.10] 2021 블라인드 : [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) - (Java)
