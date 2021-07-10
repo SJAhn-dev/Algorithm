@@ -87,6 +87,7 @@
 - [2021.04.10] 2021 블라인드 : [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) - (Java)
 - [2021.04.11] 2021 블라인드 : [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) - (Java)
 - [2021.04.13] 2021 블라인드 : [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) - (Java)
+- [2021.07.10] 2021 인턴십 : [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) - (Kotlin)
 
 
 ## Baekjoon
