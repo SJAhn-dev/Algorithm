@@ -91,6 +91,7 @@
 - [2021.04.13] 2021 블라인드 : [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) - (Java)
 - [2021.07.10] 2021 인턴십 : [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) - (Kotlin)
 - [2021.07.10] 2021 인턴십 : [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - (Kotlin)
+- [2021.07.25] 2021 인턴십 : [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) - (Kotlin)
 
 
 ## Baekjoon
