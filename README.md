@@ -45,6 +45,9 @@
 - [2021.05.06] 2021 BE : [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) - (Java)
 - [2021.07.24] 2021 BE : [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) - (Kotlin)
 
+### Programmers - Weekly Challenge
+- [2021.08.03] Week 01 : [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) - (Kotlin)
+
 ### KaKao Coding Test
 - [2021.02.14] 2018 1차 : [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676#) - (Java)
 - [2021.02.15] 2018 1차 : [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) - (Java)
