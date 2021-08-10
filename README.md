@@ -47,6 +47,7 @@
 
 ### Programmers - Weekly Challenge
 - [2021.08.03] Week 01 : [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) - (Kotlin)
+- [2021.08.10] Week 02 : [상호 평가](https://programmers.co.kr/learn/courses/30/lessons/832010 - (Kotlin)
 
 ### KaKao Coding Test
 - [2021.02.14] 2018 1차 : [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676#) - (Java)
