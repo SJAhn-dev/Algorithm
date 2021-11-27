@@ -50,6 +50,7 @@
 - [2021.08.10] Week 02 : [상호 평가](https://programmers.co.kr/learn/courses/30/lessons/832010) - (Kotlin)
 - [2021.09.19] Week 04 : [직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325) - (Kotlin)
 - [2021.09.25] Week 05 : [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512) - (Kotlin)
+- [2021.11.27] Weekly  : [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) - (Kotlin)
 
 ### KaKao Coding Test
 - [2021.02.14] 2018 1차 : [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676#) - (Java)
