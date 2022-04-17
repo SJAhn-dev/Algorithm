@@ -100,6 +100,7 @@
 - [2021.07.10] 2021 인턴십 : [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - (Kotlin)
 - [2021.07.25] 2021 인턴십 : [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) - (Kotlin)
 - [2022.04.17] 2022 블라인드 : [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) - (Kotlin)
+- [2022.04.17] 2022 블라인드 : [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) - (Kotlin)
 
 
 ## Baekjoon
